@@ -21,7 +21,7 @@ A simple Flutter web app showcasing a **sortable data table**, **date formatting
 
 1. Clone the repository and navigate to the project folder:
    ```bash
-   [  git clone <repo-url>](https://github.com/SiddharthChitrala/data_table_ui.git)
+   git clone <repo-url>(https://github.com/SiddharthChitrala/data_table_ui.git)
    cd <project-folder>
    ```
 
